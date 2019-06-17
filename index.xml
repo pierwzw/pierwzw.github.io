@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
-    <title>My New Hugo Site</title>
-    <link>http://pierwzw.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-=======
     <title></title>
     <link>http://pierwzw.github.io/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
->>>>>>> 4f0761da0cf6605b7c75bef4a66982fa892ee0e0
-    
+
 	<atom:link href="http://pierwzw.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
