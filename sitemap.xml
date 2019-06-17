@@ -3,12 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+<<<<<<< HEAD
     <loc>http://pierwzw.github.io/categories/</loc>
+=======
+    <loc>http://pierwzw.github.io/</loc>
+>>>>>>> 4f0761da0cf6605b7c75bef4a66982fa892ee0e0
     <priority>0</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://pierwzw.github.io/</loc>
+=======
+    <loc>http://pierwzw.github.io/categories/</loc>
+>>>>>>> 4f0761da0cf6605b7c75bef4a66982fa892ee0e0
     <priority>0</priority>
   </url>
   
